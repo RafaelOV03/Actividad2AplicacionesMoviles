@@ -1,7 +1,7 @@
 {
-  "name": "aplicacionesMoviles",
+  "name": "Actividad2AplicacionesMoviles",
   "integrations": {
     "cordova": {}
   },
-  "type": "angular"
+  "type": "angular-standalone"
 }
