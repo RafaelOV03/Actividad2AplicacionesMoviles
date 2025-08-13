@@ -9,26 +9,29 @@ Este documento describe los pasos realizados para crear la aplicación móvil.
 ## 2. Instalar Ionic
 ![Instalar Ionic](./Imagenes/2.png)
 
-## 3. Instalar Cordova
-![Instalar Cordova](./Imagenes/3.png)
+## 3. Ionic funcionando
+![Instalar Ionic](./Imagenes/3.png)
 
-## 4. Agregar Android como plataforma
-![Agregar Android como plataforma](./Imagenes/4.png)
+## 4. Instalar Cordova
+![Instalar Cordova](./Imagenes/4.png)
 
-## 5. Instalación de Android SDK (archivos ya incluidos en variables de entorno)
-![Instalación de Android SDK](./Imagenes/5.png)
+## 5. Agregar Android como plataforma
+![Agregar Android como plataforma](./Imagenes/5.png)
 
-## 6. Crear aplicación Actividad2AplicacionesMoviles
-![Crear aplicación](./Imagenes/6.png)
+## 6. Instalación de Android SDK (archivos ya incluidos en variables de entorno)
+![Instalación de Android SDK](./Imagenes/6.png)
 
-## 7. Compilar APK con `cordova build android`
-![Compilar APK](./Imagenes/7.png)
+## 7. Crear aplicación Actividad2AplicacionesMoviles
+![Crear aplicación](./Imagenes/7.png)
 
-## 8. Aplicación instalada en dispositivo Android
-![Aplicación instalada](./Imagenes/8.png)
+## 8. Compilar APK con `cordova build android`
+![Compilar APK](./Imagenes/8.png)
 
-## 9. Aplicación ejecutándose
-![Aplicación ejecutándose](./Imagenes/9.png)
+## 9. Aplicación instalada en dispositivo Android
+![Aplicación instalada](./Imagenes/9.jpg)
+
+## 10. Aplicación ejecutándose
+![Aplicación ejecutándose](./Imagenes/10.jpg)
 
 ---
 
